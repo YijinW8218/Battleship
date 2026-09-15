@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Battleship is a graphical, turn-based naval strategy game built with Python and Pygame. Place your fleet on a 10-by-10 board, then take turns attacking the computer opponent's board. The game includes ship placement, rotation and clearing controls, hit and miss markers, an opponent AI, and win screens.
+This is a graphical, turn-based naval strategy game built with Python and Pygame. Place your fleet on a 10-by-10 board, then take turns attacking the computer opponent's board. The game includes ship placement, rotation and clearing controls, hit and miss markers, an opponent AI, and win screens.
 
 ## Environment Requirements
 
